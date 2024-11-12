@@ -2,7 +2,8 @@
 
 A modern web application that provides simultaneous interactions with both Google's Gemini and Groq AI models, offering real-time comparison of responses in an elegant interface.
 
-![Dual AI Chat Interface](https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=400&h=400)
+![dual-aichatbot](https://github.com/user-attachments/assets/107dae03-164f-4520-a7f2-d2c4473cf9c3)
+
 
 ## ✨ Features
 
